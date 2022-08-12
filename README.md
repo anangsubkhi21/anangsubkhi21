@@ -1,7 +1,7 @@
 ### Hi anang subkhi 👋
-![foto keterangan](/CARHARTT_WIP.jpg)
+![foto keterangan](/CARHARTT_WIP.JPG)
 
-<!--hello brok
+<!--hello brokk
 **anangsubkhi21/anangsubkhi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
